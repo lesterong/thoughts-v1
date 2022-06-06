@@ -164,10 +164,16 @@ code {
 .postlist-link {
   padding-left: .25em;
   padding-right: .25em;
+  text-decoration: none;
+}
+
+.postlist-link:hover {
+  text-decoration: underline;
   text-underline-position: from-font;
   text-underline-offset: 0;
   text-decoration-thickness: 1px;
 }
+
 .postlist-item-active .postlist-link {
   font-weight: bold;
 }
