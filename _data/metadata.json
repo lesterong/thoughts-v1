@@ -1,21 +1,21 @@
 {
   "title": "Lester's Thoughts",
-  "url": "https://example.com/",
+  "url": "https://thoughts.lesterong.com/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "A collection of my thoughts.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "A collection of my thoughts.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://thoughts.lesterong.com/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://thoughts.lesterong.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Lester Ong",
+    "email": "lesterong776@gmail.com",
+    "url": "https://thoughts.lesterong.com/about-me/"
   }
 }
