@@ -1,8 +1,8 @@
-# eleventy-base-blog
+# thoughts
 
-A starter repository showing how to build a blog with the [Eleventy](https://github.com/11ty/eleventy) static site generator.
+This is the first version of my blog, built with Eleventy, based on the [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) template. I have since rebuilt my blog using Next.js and TailwindCSS, and the base template can be found [here](https://github.com/lesterong/nextjs-blog).
 
-[![Build Status](https://travis-ci.org/11ty/eleventy-base-blog.svg?branch=master)](https://travis-ci.org/11ty/eleventy-base-blog)
+---
 
 ## Demos
 
@@ -24,14 +24,14 @@ Or, read more about [Deploying an Eleventy project](https://www.11ty.dev/docs/de
 ### 1. Clone this Repository
 
 ```
-git clone https://github.com/11ty/eleventy-base-blog.git my-blog-name
+git clone https://github.com/lesterong/thoughts.git thoughts
 ```
 
 
 ### 2. Navigate to the directory
 
 ```
-cd my-blog-name
+cd thoughts
 ```
 
 Specifically have a look at `.eleventy.js` to see if you want to configure any Eleventy options differently.
